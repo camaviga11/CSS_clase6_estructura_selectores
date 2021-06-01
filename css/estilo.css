@@ -1,0 +1,19 @@
+*{border: 1px solid black;}
+article{
+    width: 40%;
+}
+header{
+    margin: 50px;
+    background-color: black;
+}
+h1, ul{
+    color: white;
+}
+h2, h3{color: blue;}
+p{
+    color: red;
+}
+footer{
+    background-color: black;
+    color: white;
+}
